@@ -162,6 +162,9 @@ p{
 .center{
     text-align: center !important;
 }
-
+svg{
+  height: 8%;
+  width: 8%;
+}
 .icons{
 }

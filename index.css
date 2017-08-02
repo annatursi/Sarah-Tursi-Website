@@ -163,6 +163,6 @@ p{
     text-align: center !important;
 }
 
-icons{
-display:inline;
+.icons{
+display:inline-block;
 }

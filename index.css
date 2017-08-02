@@ -169,3 +169,7 @@ svg{
 #icons{
   display: inline-block;
 }
+#icons a{
+  float:left;
+  padding: 10px;
+}

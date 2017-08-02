@@ -163,9 +163,9 @@ p{
     text-align: center !important;
 }
 svg{
-  height: 8%;
-  width: 8%;
+  height: 10%;
+  width: 10%;
 }
-.icons{
+#icons{
   display: inline-block;
 }

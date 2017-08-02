@@ -166,10 +166,7 @@ svg{
   height: 10%;
   width: 10%;
 }
-#icons{
+.icons{
+  width: 100%;
   display: inline-block;
-}
-#icons a{
-  float:left;
-  padding: 10px;
 }

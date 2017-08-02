@@ -167,4 +167,5 @@ svg{
   width: 8%;
 }
 .icons{
+  display: inline-block;
 }
